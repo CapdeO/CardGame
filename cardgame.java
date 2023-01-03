@@ -124,7 +124,7 @@ public class cardgame {
                 }
                 else {
                     //Mostramos la carta que eligió el usuario
-                    Card.card1.showCard(2);
+                    Card.card2.showCard(2);
                     //Sumamos el ataque y la defensa totales de los valores de la carta
                     Game.sumCard(2);
                     //Agregamos a la carta usada como activa
@@ -146,7 +146,7 @@ public class cardgame {
                 }
                 else {
                     //Mostramos la carta que eligió el usuario
-                    Card.card1.showCard(3);
+                    Card.card3.showCard(3);
                     //Sumamos el ataque y la defensa totales de los valores de la carta
                     Game.sumCard(3);
                     //Agregamos a la carta usada como activa
@@ -168,7 +168,7 @@ public class cardgame {
                 }
                 else {
                     //Mostramos la carta que eligió el usuario
-                    Card.card1.showCard(4);
+                    Card.card4.showCard(4);
                     //Sumamos el ataque y la defensa totales de los valores de la carta
                     Game.sumCard(4);
                     //Agregamos a la carta usada como activa
